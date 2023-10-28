@@ -13,6 +13,7 @@ public class Crickets : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //пишет в консоль "crickets" каждый фрейм
         print("crickets");
     }
 }
